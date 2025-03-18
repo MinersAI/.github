@@ -2,8 +2,9 @@
 name: Feature issue
 about: When adding new features or improving existing features
 title: Implement {issue.description}
-labels: ''
+labels: feature
 assignees: ''
+projects: MinersAI/1
 
 ---
 

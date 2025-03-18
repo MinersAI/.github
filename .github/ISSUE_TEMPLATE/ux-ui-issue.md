@@ -2,8 +2,9 @@
 name: UX/UI issue
 about: When fine-tuning UI and/or UX
 title: ''
-labels: ''
+labels: ui/ux
 assignees: ''
+projects: MinersAI/1
 
 ---
 
