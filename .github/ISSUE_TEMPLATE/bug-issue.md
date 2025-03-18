@@ -4,6 +4,7 @@ about: When reporting a bug
 title: Fix {issue.description}
 labels: bug
 assignees: ''
+projects: MinersAI/1
 
 ---
 
