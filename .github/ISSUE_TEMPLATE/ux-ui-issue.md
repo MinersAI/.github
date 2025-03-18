@@ -1,11 +1,7 @@
 ---
-name: UX/UI issue
+name: UI/UX issue
 about: When fine-tuning UI and/or UX
-title: ''
-labels: ui/ux
-assignees: ''
-projects: MinersAI/1
-
+type: UI/UX
 ---
 
 <!--
